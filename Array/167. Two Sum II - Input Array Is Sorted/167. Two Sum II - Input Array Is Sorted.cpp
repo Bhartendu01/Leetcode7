@@ -1,6 +1,6 @@
 // Problem: 167. Two Sum II - Input Array Is Sorted
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 19.6 MB (Beats 34.45%)
+// Memory: 19.5 MB (Beats 65.57%)
 
 // class Solution {
 // public:
