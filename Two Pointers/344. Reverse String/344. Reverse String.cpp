@@ -1,6 +1,6 @@
 // Problem: 344. Reverse String
 // Runtime: 0 ms (Beats 100.00%)
-// Memory: 27.1 MB (Beats 81.61%)
+// Memory: 27.3 MB (Beats 16.08%)
 
 class Solution {
 public:
