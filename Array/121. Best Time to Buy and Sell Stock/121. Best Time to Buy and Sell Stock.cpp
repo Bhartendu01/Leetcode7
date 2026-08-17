@@ -1,6 +1,6 @@
 // Problem: 121. Best Time to Buy and Sell Stock
-// Runtime: 4 ms (Beats 17.90%)
-// Memory: 97.4 MB (Beats 61.06%)
+// Runtime: 1 ms (Beats 35.41%)
+// Memory: 97.2 MB (Beats 99.52%)
 
 class Solution {
 public:
