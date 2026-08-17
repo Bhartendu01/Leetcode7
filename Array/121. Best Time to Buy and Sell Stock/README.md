@@ -4,8 +4,8 @@
 **Topics:** `Array`, `Dynamic Programming`
 
 ### 🚀 Performance
-- **Runtime:** `4 ms` (Beats `17.90%` of users)
-- **Memory:** `97.4 MB` (Beats `61.06%` of users)
+- **Runtime:** `1 ms` (Beats `35.41%` of users)
+- **Memory:** `97.2 MB` (Beats `99.52%` of users)
 
 ### 📝 Problem Description
 
